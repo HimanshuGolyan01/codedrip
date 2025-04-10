@@ -20,7 +20,9 @@ export default function Footer() {
                             <div>github</div>
                         </div>
                     </div>
-                    <div className="text-[25rem] tracking-20">CODEDRIP</div>
+                    <div className="flex items-center justify-center h-screen">
+  <div className="text-[22rem] tracking-[20px]">DRIP</div>
+</div>
                 </div>
             </div>
         </>
